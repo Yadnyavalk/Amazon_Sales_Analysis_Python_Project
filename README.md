@@ -30,9 +30,15 @@ This project focuses on analyzing Amazon sales data using Python. The aim was to
 ### Word Cloud from Reviews
 ![Word Cloud](Screenshot%202025-09-25%20175030.png)
 
+
 ## 🚀 Results
 - Gained insights into how discounts and ratings affect sales.  
 - Highlighted demand patterns across different product categories.  
-- Provided a clear view of sales drivers for better business understanding.  
+- Provided a clear view of sales drivers for better business understanding.
 
-## 📂 Project Pdf Link
+## Project Link
+For the full detailed report, follow link :
+
+[**Amazon Sales Analysis - Full Report**](https://github.com/Yadnyavalk/Amazon_Sales_Analysis_Python_Project/blob/main/Amazon_sales_python_project.html)
+
+
