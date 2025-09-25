@@ -39,6 +39,6 @@ This project focuses on analyzing Amazon sales data using Python. The aim was to
 ## Project Link
 For the full detailed report, follow link :
 
-[**Amazon Sales Analysis - Full Report**](https://github.com/Yadnyavalk/Amazon_Sales_Analysis_Python_Project/blob/main/Amazon_sales_python_project.html)
+[**Amazon Sales Analysis - Full Report**](https://github.com/Yadnyavalk/Amazon_Sales_Analysis_Python_Project/blob/main/Amazon_sales_python_project.pdf)
 
 
